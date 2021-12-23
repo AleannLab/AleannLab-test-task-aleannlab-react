@@ -10,7 +10,7 @@
 Clone this repo
 
 ```
-> cd frontend-challenge
+> cd AleannLab-test-task-aleannlab-react
 > npm install
 > npm start
 ```
